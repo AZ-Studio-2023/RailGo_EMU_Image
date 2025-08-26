@@ -8,4 +8,4 @@
 ## 3.在Copyright.txt中 添加您补正的车型和您的邮箱,QQ号码 便于联系
 ## 4.新建/修改 Details.json
 ## 5.确定保存 提交 Pull&Requests
-# 最后请等待审核
+# 最后请等待审核 您的PR审批通过后 您会收到来自 service@railgo.dev 的电子邮件
